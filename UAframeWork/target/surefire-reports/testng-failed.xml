@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [UATestScript]">
+  <test name="TestCase#03 :: Catlog Mendatory Field Validation">
+    <classes>
+      <class name="com.TestCases.E2E_RegisterdUser"/>
+    </classes>
+  </test> <!-- TestCase#03 :: Catlog Mendatory Field Validation -->
+</suite> <!-- Failed suite [UATestScript] -->
